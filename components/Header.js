@@ -7,7 +7,7 @@ import Head from 'next/head';
 import Script from 'next/script';
 import { motion } from "framer-motion"
 
-const header = () => {
+const Header = () => {
   const [header, setHeader] = useState(80);
   const [isWebResources, setIsWebResources] = useState(false);
   const [isWebServices, setIsSWebervices] = useState(false);
@@ -210,4 +210,4 @@ useEffect(() => {
   )
 }
 
-export default header
+export default Header
