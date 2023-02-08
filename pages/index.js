@@ -258,7 +258,7 @@ export default function Home({brandsdata,blogsdata}) {
                             <div className="hidden lg:block rounded relative lg:pt-4 lg:px-4 pb-8 lg:backdrop-blur bg-gray-200 shadow-lg shadow-black text-ellipsis lg:w-1/4 mx-auto text-center ">
 
                                 <h2 className="text-2xl text-slate-900 font-medium underline ">Max Bidna</h2>
-                                <h4 className="text-sm text-gray-800">CEO at Hell's Creative</h4>
+                                <h4 className="text-sm text-gray-800">CEO at Hells Creative</h4>
                                 <div className="text-blue-900">
                                     <svg xmlns="http://www.w3.org/2000/svg" className='w-8 mx-auto' preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16">
                                         <path fill="currentColor" d="M12 12a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1h-1.388c0-.351.021-.703.062-1.054c.062-.372.166-.703.31-.992c.145-.29.331-.517.559-.683c.227-.186.516-.279.868-.279V3c-.579 0-1.085.124-1.52.372a3.322 3.322 0 0 0-1.085.992a4.92 4.92 0 0 0-.62 1.458A7.712 7.712 0 0 0 9 7.558V11a1 1 0 0 0 1 1h2Zm-6 0a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1H4.612c0-.351.021-.703.062-1.054c.062-.372.166-.703.31-.992c.145-.29.331-.517.559-.683c.227-.186.516-.279.868-.279V3c-.579 0-1.085.124-1.52.372a3.322 3.322 0 0 0-1.085.992a4.92 4.92 0 0 0-.62 1.458A7.712 7.712 0 0 0 3 7.558V11a1 1 0 0 0 1 1h2Z" /></svg>
